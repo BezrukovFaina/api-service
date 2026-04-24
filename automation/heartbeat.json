@@ -1,22 +1,6 @@
 {
-  "status": "ok",
-  "timestamp": "2024-10-27T10:00:00Z",
-  "service": "api-service",
-  "version": "1.2.3",
-  "environment": "production",
-  "dependencies": {
-    "database": {
-      "status": "ok",
-      "latency_ms": 15
-    },
-    "message_queue": {
-      "status": "ok",
-      "latency_ms": 5
-    }
-  },
-  "metrics": {
-    "cpu_usage": 0.65,
-    "memory_usage": 0.78,
-    "requests_per_minute": 120
-  }
+  "account_id": "261771068:BezrukovFaina",
+  "managed_by": "github_hack_safe_runtime",
+  "mode": "COMMIT",
+  "updated_at": "2026-04-24T12:52:36.427509+00:00"
 }
